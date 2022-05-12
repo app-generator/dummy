@@ -4,6 +4,14 @@
 
 <br />
 
+![BS5 Sample - Dashboard](https://user-images.githubusercontent.com/51070104/168034064-5fab9b98-eaac-46aa-b8d6-087d7ce0422c.png)
+
+<br />
+
+![BS5 Sample - Landign Page](https://user-images.githubusercontent.com/51070104/168033680-5610b1a6-7c6a-473b-a39d-f67d83b4917a.png)
+
+<br />
+
 ![gen-pro-version-django-material-pro](https://user-images.githubusercontent.com/51070104/167877853-b0af0c8f-ff4a-4be5-9666-bf4b1ea0b018.jpg)
 
 <br />
