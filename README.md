@@ -4,6 +4,10 @@
 
 <br />
 
+![Django Dashboards - A curated list with projects.](https://user-images.githubusercontent.com/51070104/182412833-fbeb2261-79b6-49ed-bee0-4e713c8ddc39.jpg)
+
+<br />
+
 ![xtreme-vuejs-free-charts](https://user-images.githubusercontent.com/51070104/181697344-9744bb49-14c7-419c-97db-952757308ce4.jpg)
 
 <br />
