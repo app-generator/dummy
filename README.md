@@ -4,6 +4,30 @@
 
 <br />
 
+![OAuth Github - Settings Menu](https://user-images.githubusercontent.com/51070104/185069914-6d2dc762-6d8f-4209-84c5-2d43bc6f3940.png)
+
+<br />
+
+![OAuth Github - Developers Menu](https://user-images.githubusercontent.com/51070104/185070192-385da38f-4844-49ae-8caa-7bccb7cf4130.png)
+
+<br />
+
+![OAuth Github - Create OAuth APP.](https://user-images.githubusercontent.com/51070104/185070479-90b33c90-0e46-4b6d-8ec9-87e1b33cb60e.png)
+
+<br />
+
+![OAuth Github - Edit OAuth APP Settings.](https://user-images.githubusercontent.com/51070104/185074952-57272343-e076-4be2-b272-1eceb168dab3.png)
+
+<br />
+
+![OAuth Github - Generate APP Secrets.](https://user-images.githubusercontent.com/51070104/185075341-24463aeb-5f0d-47ed-a538-35e61ba6c59a.png)
+
+<br />
+
+![OAuth Github - Save APP Settings.](https://user-images.githubusercontent.com/51070104/185075667-ab0a2114-35f5-4180-98ff-4aac41d00600.png) 
+
+<br />
+
 ![Django Dashboards - A curated list with projects.](https://user-images.githubusercontent.com/51070104/182412833-fbeb2261-79b6-49ed-bee0-4e713c8ddc39.jpg)
 
 <br />
