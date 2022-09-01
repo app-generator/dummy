@@ -4,6 +4,10 @@
 
 <br />
 
+![Argon Design PRO - Seed project crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/187922792-7f7c8bb9-25a5-4129-a0fe-6bbfba82501d.png)
+
+<br />
+
 ![OAuth Github - Settings Menu](https://user-images.githubusercontent.com/51070104/185069914-6d2dc762-6d8f-4209-84c5-2d43bc6f3940.png)
 
 <br />
