@@ -4,6 +4,10 @@
 
 <br />
 
+![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)
+
+<br />
+
 ![no-image](https://user-images.githubusercontent.com/51070104/199048910-57f845f6-a6c2-405d-a117-12385288a5cc.jpg)
 
 <br />
