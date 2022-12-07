@@ -4,6 +4,10 @@
 
 <br />
 
+![image](https://user-images.githubusercontent.com/51070104/206225228-85e663a2-40e6-4346-bff2-c5c3ebd7dc4b.png)
+
+<br />
+
 ![tremor-react-lib-cover](https://user-images.githubusercontent.com/51070104/206101967-b601cc79-090a-40b2-9bb0-2baba18fbc14.jpg)
 
 <br />
