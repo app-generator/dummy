@@ -4,8 +4,11 @@
 
 <br />
 
-![charts-tremor-intro](https://user-images.githubusercontent.com/51070104/206100669-007ecab0-3006-481e-bcf9-931971108fe3.gif)
+![tremor-react-lib-cover](https://user-images.githubusercontent.com/51070104/206101967-b601cc79-090a-40b2-9bb0-2baba18fbc14.jpg)
 
+<br />
+
+![charts-tremor-intro](https://user-images.githubusercontent.com/51070104/206100669-007ecab0-3006-481e-bcf9-931971108fe3.gif)
 
 <br />
 
