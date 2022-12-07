@@ -4,6 +4,11 @@
 
 <br />
 
+![charts-tremor-intro](https://user-images.githubusercontent.com/51070104/206100669-007ecab0-3006-481e-bcf9-931971108fe3.gif)
+
+
+<br />
+
 ![React Material Kit - Open-Source Fullstack starter crafted by Creative-Tim and AppSeed.](https://user-images.githubusercontent.com/51070104/205701017-aba36ff7-1db0-41d0-8691-9f989c047014.png)
 
 <br />
