@@ -4,6 +4,10 @@
 
 <br />
 
+![Flask Berry - Open-source starter crafted by AppSeed on top of a pixel-perfect design from CodedThemes.](https://user-images.githubusercontent.com/51070104/209426354-332e4181-f873-4e98-bc4d-25eb456e23ba.jpg)
+
+<br />
+
 ![Material Dashboard BS5 - Modern Dashboard design by Creative-Tim.](https://user-images.githubusercontent.com/51070104/209104783-22f04139-8919-457c-b21d-7383d57f07b1.png)
 
 <br />
