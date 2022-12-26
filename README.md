@@ -4,6 +4,10 @@
 
 <br />
 
+![chatgpt-shit](https://user-images.githubusercontent.com/51070104/209566523-df631bd5-20f2-4070-be05-f0fd215b4216.jpg)
+
+<br />
+
 ![Flask Berry - Open-source starter crafted by AppSeed on top of a pixel-perfect design from CodedThemes.](https://user-images.githubusercontent.com/51070104/209426354-332e4181-f873-4e98-bc4d-25eb456e23ba.jpg)
 
 <br />
