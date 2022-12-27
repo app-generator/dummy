@@ -4,6 +4,18 @@
 
 <br />
 
+![Theme Material Dashboard PRO - Main (Dark-Mode active), crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695422-7863697f-e6c5-4b08-b395-422074e399df.jpg)
+
+<br />
+
+![Theme Material Dashboard PRO - Calender Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695529-f4cea8ee-68d9-4658-bb54-110ff530c8da.jpg)
+
+<br />
+
+![Theme Material Dashboard PRO - Automotive Page, crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/209695692-e681b3c8-fca8-4ebf-8803-2795bcd8f7d1.jpg)
+
+<br />
+
 ![chatgpt-shit](https://user-images.githubusercontent.com/51070104/209566523-df631bd5-20f2-4070-be05-f0fd215b4216.jpg)
 
 <br />
