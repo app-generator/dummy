@@ -4,6 +4,10 @@
 
 <br />
 
+[![Best Deals For Programmers and Freelancers - Provided by AppSeed](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
+
+<br />
+
 [![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
 
 <br />
