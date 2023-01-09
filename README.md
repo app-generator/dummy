@@ -4,6 +4,10 @@
 
 <br />
 
+![Material Kit 2 Pro](https://user-images.githubusercontent.com/51070104/211263795-a166b69b-ba59-43a1-9be5-69b1cc36d786.png)
+
+<br />
+
 ![Material Dashboard 2 Pro](https://user-images.githubusercontent.com/51070104/211141418-6b7886eb-6fb3-433e-91c9-2895c086099a.png)
 
 <br />
