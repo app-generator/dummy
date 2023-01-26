@@ -4,6 +4,10 @@
 
 <br />
 
+![image](https://user-images.githubusercontent.com/51070104/214924204-6a72c5df-f5cc-47fb-bb3e-542ca4b928f4.png)
+
+<br />
+
 ![Django Black Dashboard PRO - Premium Starter crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/214872728-230a9955-d391-4900-b352-d68960dbd2c4.png)
 
 <br />
