@@ -4,6 +4,10 @@
 
 <br /> 
 
+[![Django & Tailwind CSS - Soft Design, Docker, Go LIVE](https://user-images.githubusercontent.com/51070104/224796622-bf5ecf18-1d6f-4c8d-b443-3083bb559f90.png)](https://www.youtube.com/watch?v=2cwuqAlFfnw)
+
+<br />
+
 ![Argon Dashboard Tailwind Django](https://user-images.githubusercontent.com/51070104/224689600-e6cc9a64-88aa-471f-a52d-1d0a0a99e1c2.png)
 
 <br /> 
