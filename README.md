@@ -4,6 +4,16 @@
 
 <br /> 
 
+![image](https://user-images.githubusercontent.com/51070104/225840806-a3a0187c-763a-447b-a5dc-13f6d2511b6d.png)
+
+![image](https://user-images.githubusercontent.com/51070104/225840928-b520e4fa-84dc-4eee-8176-c65ff879d8b7.png)
+
+![image](https://user-images.githubusercontent.com/51070104/225840432-c60d7bc3-2964-4f68-8edc-57801fad257a.png)
+
+![image](https://user-images.githubusercontent.com/51070104/225840658-580b6295-78f6-4356-9ffc-ac84e94af67c.png)
+
+<br />
+
 [![Django & Tailwind CSS - Soft Design, Docker, Go LIVE](https://user-images.githubusercontent.com/51070104/224796622-bf5ecf18-1d6f-4c8d-b443-3083bb559f90.png)](https://www.youtube.com/watch?v=2cwuqAlFfnw)
 
 <br />
