@@ -4,6 +4,25 @@
 
 <br /> 
 
+![ThemesBerg - Free and Premium Bootstrap, React and Vue Templates](https://user-images.githubusercontent.com/51070104/226657777-995461b5-fd83-4843-a7bb-ab43216c22fa.png)
+
+
+![WrapPixel - Free and Premium Bootstrap, React and Vue Templates - Indian-based agency](https://user-images.githubusercontent.com/51070104/226654519-12fe9a2f-6c62-47e2-bb66-96f51879b7e7.png)
+
+![CodedThemes - Indian-based Web Agency](https://user-images.githubusercontent.com/51070104/226652590-72c8717e-4d44-4d93-9a22-1889318dab07.png)
+
+![BootstrapDash - Indian-based web agency, and open-source contributor for Bootstrap, React, Vue and Laravel](https://user-images.githubusercontent.com/51070104/226649356-3f53c449-f18f-4a8e-9fb1-7df76c149696.png)
+
+![Creative-Tim - Fully Coded UI Tools to create web and mobile apps](https://user-images.githubusercontent.com/51070104/226646060-0bfcb2a8-6333-4404-9f8f-9d11e6091c76.png)
+
+![Creative-Tim - Open-Source Products](https://user-images.githubusercontent.com/51070104/226646572-6df8de89-9e29-4886-8841-bae40acae93d.png)
+
+![Material Dashboard React - Free Material Tailwind Admin Template based on Tailwind CSS and React.](https://user-images.githubusercontent.com/51070104/226635146-82d3f52b-2287-4b3c-a9a1-69187a941091.png)
+
+![Soft UI Dashboard  - Open-Source Dashboard styled with Tailwind](https://user-images.githubusercontent.com/51070104/226633435-29212abc-6fb9-4341-b009-cb79bdf22e18.png) 
+
+![Argon Dashboard - Open-Source Dashboard styled with Tailwind](https://user-images.githubusercontent.com/51070104/226629500-08932c8b-d5fd-439c-830b-eaaf15f0b22e.png)
+
 ![Full-Stack React Purity - Sign IN page, crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/226540211-5bdfa0d8-f36c-47c2-aeba-e9733cee3d45.png)
 
 ![React Purity Dashboard (chakra ui) - Premium React Template from Creative-Tim](https://user-images.githubusercontent.com/51070104/226539954-aa62adb8-bf9d-4e1e-8ff5-a5d78e345f1a.png)
