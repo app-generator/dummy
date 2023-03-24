@@ -4,6 +4,22 @@
 
 <br /> 
 
+![Render - Create Service](https://user-images.githubusercontent.com/51070104/227564422-e97977c4-d92f-4a25-9852-66ff25de793f.png)
+
+![Render - Connect Repo](https://user-images.githubusercontent.com/51070104/227562328-8cb53fab-f5c2-4764-a693-3fd5743ac85e.png)
+
+![Render - Configure Name](https://user-images.githubusercontent.com/51070104/227562561-a794f42c-9d86-4192-9e94-4091ddf97e59.png)
+
+![Render - Configure Runtime Environment, Build Command](https://user-images.githubusercontent.com/51070104/227562806-2149a7a7-e2e0-4e9e-bb95-1e28b3400b84.png)
+
+![Render - Configure Instance Type (free or PAID)](https://user-images.githubusercontent.com/51070104/227563102-250d7fab-ce8b-4bd2-8917-5bdd610bf4c5.png)
+
+![Render - Visualize Deployment Logs](https://user-images.githubusercontent.com/51070104/227563520-5cf26600-c0d4-417e-921e-ab0d1f3f80af.png)
+
+![Render - Datta Able is LIVE](https://user-images.githubusercontent.com/51070104/227563947-1373ad49-87b5-4b7a-bcdb-1c9e5597731f.png)
+
+<br />
+
 [![Soft Dashboard Tailwind PRO - Premium Django starter crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/227284620-c235e50e-f707-427a-9f76-bf08177fb1e1.png)](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
 
 
