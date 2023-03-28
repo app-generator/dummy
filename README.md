@@ -2,6 +2,18 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![NextJS Tourist House - Top Section](https://user-images.githubusercontent.com/51070104/228226032-26d53a17-1aee-4320-b66e-f53ca0b22443.png)
+
+![NextJS Tourist House - Services Section](https://user-images.githubusercontent.com/51070104/228226226-977fd454-39c8-475a-9449-b98de2ea1dfc.png)
+
+![NextJS Tourist House - Gallery Section](https://user-images.githubusercontent.com/51070104/228226431-5f914057-d992-49c0-a4b3-3bb01a2402a6.png)
+
+![NextJS Tourist House - Footer Section](https://user-images.githubusercontent.com/51070104/228226623-14ff4254-762f-4b65-aed0-30f229fa9999.png)
+
+<br /> 
+
+[![NextJS Tourist House - Open-Source project styled with Chakra](https://user-images.githubusercontent.com/51070104/228221297-f92aedcc-3008-46ff-8220-720f02a09977.jpg)](https://github.com/app-generator/design-nextjs-tourist-house-mountain)
+
 <br /> 
 
 ![Render - Create Service](https://user-images.githubusercontent.com/51070104/227564422-e97977c4-d92f-4a25-9852-66ff25de793f.png)
