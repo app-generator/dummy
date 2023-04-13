@@ -532,6 +532,21 @@
 
 <br />
 
+![django-installation](https://user-images.githubusercontent.com/57325382/231792222-6231b82b-8ea1-4dec-b434-aa14c0107651.png)
+
+<br />
+
+![localhost-example](https://user-images.githubusercontent.com/57325382/231792238-bd8c88fa-fc07-41f5-b560-cd611bc5fc95.png)
+
+<br />
+
+![localhost-home](https://user-images.githubusercontent.com/57325382/231792249-c2265387-61ed-4f2f-946f-6173f551c05f.png)
+
+<br />
+
+![localhost-material-theme](https://user-images.githubusercontent.com/57325382/231792256-532fe6b4-516d-4f0c-ad29-1fd1a4335f1c.png)
+
+<br />
 
 ---
 Dummy Project - by AppSeed. 
