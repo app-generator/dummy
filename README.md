@@ -2,7 +2,7 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
-![django-heroku-sample-app](https://user-images.githubusercontent.com/51070104/231852780-61da3ad5-b17d-4c42-9fc9-5f559fa3f1a8.jpg)
+[![django-heroku-sample-app](https://user-images.githubusercontent.com/51070104/231852780-61da3ad5-b17d-4c42-9fc9-5f559fa3f1a8.jpg)](https://docs.appseed.us/deployment/heroku/django/)
 
 ![NextJS Tourist House - Top Section](https://user-images.githubusercontent.com/51070104/228226032-26d53a17-1aee-4320-b66e-f53ca0b22443.png)
 
