@@ -2,6 +2,20 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![HEROKU - Create APP Menu](https://user-images.githubusercontent.com/51070104/232183710-75786f69-8559-4a73-b3db-cb13f85b9c4d.png)
+
+![HEROKU - Create APP](https://user-images.githubusercontent.com/51070104/232183732-da644058-2d14-4e5c-84d2-1996aa0a589f.png)
+
+![HEROKU - Connect Repository](https://user-images.githubusercontent.com/51070104/232183842-f73a682e-1948-4e1e-a7df-9c92db6fb7af.png)
+
+![HEROKU - Trigger Deployment](https://user-images.githubusercontent.com/51070104/232183996-51be1a59-2435-42ed-a3e9-41d7a9a5d80e.png)
+
+![HEROKU - Deployment in progress](https://user-images.githubusercontent.com/51070104/232184039-58904f22-b421-4e1a-a982-4ea0f5616c55.png)
+
+![HEROKU - Deployment finished](https://user-images.githubusercontent.com/51070104/232184072-0b32aa3c-d957-4e6a-bf91-c2577c99afce.png)
+
+![HEROKU - App is LIVE](https://user-images.githubusercontent.com/51070104/232184103-4b300955-8b3a-4daf-9c83-0b483b2bab8b.png)
+
 [![django-heroku-sample-app](https://user-images.githubusercontent.com/51070104/231852780-61da3ad5-b17d-4c42-9fc9-5f559fa3f1a8.jpg)](https://docs.appseed.us/deployment/heroku/django/)
 
 ![NextJS Tourist House - Top Section](https://user-images.githubusercontent.com/51070104/228226032-26d53a17-1aee-4320-b66e-f53ca0b22443.png)
