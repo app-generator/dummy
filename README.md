@@ -564,5 +564,29 @@
 
 <br />
 
+![admin_login_before](https://user-images.githubusercontent.com/57325382/233063737-2d0bd12b-aabe-49b7-8f41-6f3e62cb31c2.png)
+
+<br />
+
+![admin_login_after](https://user-images.githubusercontent.com/57325382/233063947-54fb40ef-d53f-4a7c-837a-0307831ce500.png)
+
+<br />
+
+![admin_panel_after resized](https://user-images.githubusercontent.com/57325382/233064656-959c91bc-7d54-4dd1-a65b-5431bc7f9100.png)
+
+<br />
+
+![admin_panel_before resized](https://user-images.githubusercontent.com/57325382/233064663-21561f00-6218-4acc-842d-464d7dfabd08.png)
+
+<br />
+
+![admin_panel_user_after resized](https://user-images.githubusercontent.com/57325382/233064668-610e98c4-c5f3-43e6-9ac5-17ac227ffa9c.png)
+
+<br />
+
+![admin_panel_user_before resized](https://user-images.githubusercontent.com/57325382/233064672-1c3ecb66-6322-49aa-b32b-d06f0aa96aad.png)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
