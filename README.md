@@ -2,6 +2,10 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Django & MongoDB Integration](https://user-images.githubusercontent.com/51070104/233291828-2c7088ae-4768-466a-ab95-af017e1232c0.png)
+
+<br />
+
 ![HEROKU - Create APP Menu](https://user-images.githubusercontent.com/51070104/232183710-75786f69-8559-4a73-b3db-cb13f85b9c4d.png)
 
 ![HEROKU - Create APP](https://user-images.githubusercontent.com/51070104/232183732-da644058-2d14-4e5c-84d2-1996aa0a589f.png)
