@@ -592,5 +592,17 @@
 
 <br />
 
+![Site administration | Django site admin - Google Chrome_001 resized](https://user-images.githubusercontent.com/57325382/233859467-8df8ed49-7878-4b39-8cff-b73ba50e7144.png)
+
+<br />
+
+![Workspace 1_015 resized](https://user-images.githubusercontent.com/57325382/233859469-b293e4eb-66a1-4d4a-b5f2-cb61129b8f8c.png)
+
+<br />
+
+![Workspace 1_016 resized](https://user-images.githubusercontent.com/57325382/233859472-07d63c9a-0bd2-4e33-9b84-711623930be8.png)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
