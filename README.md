@@ -604,5 +604,15 @@
 
 <br />
 
+![Django Tasks Manager Tables | AppSeed - Google Chrome_001 resized](https://user-images.githubusercontent.com/57325382/234071031-843640ab-3963-40c2-a866-5b1cd45dd5a6.png)
+
+<br />
+
+![Workspace 1_017 resized](https://user-images.githubusercontent.com/57325382/234071041-9570d8d4-5902-40bb-a050-28136bfa7f29.png)
+
+<br />
+
+
+
 ---
 Dummy Project - by AppSeed. 
