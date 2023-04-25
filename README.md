@@ -2,6 +2,9 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Django & Celery Integration](https://user-images.githubusercontent.com/51070104/234322406-e737605c-51b7-4e9c-b0c6-e7b37515f54d.png)
+
+
 ![Django - Simple Charts](https://user-images.githubusercontent.com/51070104/234304017-97178893-880c-495b-af73-e1c789a9b6b2.png)
 
 ![Django & MongoDB Integration](https://user-images.githubusercontent.com/51070104/233291828-2c7088ae-4768-466a-ab95-af017e1232c0.png)
