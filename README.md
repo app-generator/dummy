@@ -2,8 +2,9 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
-![Django & Celery Integration](https://user-images.githubusercontent.com/51070104/234322406-e737605c-51b7-4e9c-b0c6-e7b37515f54d.png)
+![Modernize - Bootstrap 5 design](https://user-images.githubusercontent.com/51070104/235424939-6b5b1d1d-0832-457a-82a9-599ba532da52.jpg)
 
+![Django & Celery Integration](https://user-images.githubusercontent.com/51070104/234322406-e737605c-51b7-4e9c-b0c6-e7b37515f54d.png)
 
 ![Django - Simple Charts](https://user-images.githubusercontent.com/51070104/234304017-97178893-880c-495b-af73-e1c789a9b6b2.png)
 
