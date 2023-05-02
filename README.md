@@ -630,11 +630,11 @@
 
 <br />
 
-![Workspace 1_021](https://user-images.githubusercontent.com/57325382/235801265-69c9f7a1-8905-4c04-9dee-c05ff6bd7723.png)
+![Workspace 1_021 resized](https://user-images.githubusercontent.com/57325382/235801525-80376524-b4a1-45bd-89be-8a7de1666597.png)
 
 <br />
 
-![Workspace 1_022](https://user-images.githubusercontent.com/57325382/235801279-5c684a36-db03-4839-a2b1-aec12765fcd3.png)
+![Workspace 1_022 resized](https://user-images.githubusercontent.com/57325382/235801556-b3b88b0c-ff5e-43fa-9a34-8f5510073b0a.png)
 
 <br />
 
