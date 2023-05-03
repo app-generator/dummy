@@ -2,6 +2,10 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![CentOS - Cover Image](https://user-images.githubusercontent.com/51070104/235929403-b0825364-9172-492b-9d41-87640adfc9e9.png)
+
+![Ubuntu OS - Cover Image](https://user-images.githubusercontent.com/51070104/235928864-ff9214fc-ed1f-4367-9b69-db4d0976248a.png)
+
 ![Modernize - Bootstrap 5 design](https://user-images.githubusercontent.com/51070104/235424939-6b5b1d1d-0832-457a-82a9-599ba532da52.jpg)
 
 ![Django & Celery Integration](https://user-images.githubusercontent.com/51070104/234322406-e737605c-51b7-4e9c-b0c6-e7b37515f54d.png)
