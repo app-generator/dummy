@@ -2,6 +2,8 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Modernize PRO - Thumb Image](https://github.com/app-generator/dummy/assets/51070104/6b1d21c2-5e26-4708-bcc5-7958e7f49d3d)
+
 ![CentOS - Cover Image](https://user-images.githubusercontent.com/51070104/235929403-b0825364-9172-492b-9d41-87640adfc9e9.png)
 
 ![Ubuntu OS - Cover Image](https://user-images.githubusercontent.com/51070104/235928864-ff9214fc-ed1f-4367-9b69-db4d0976248a.png)
