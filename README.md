@@ -656,7 +656,7 @@
 
 <br />
 
-![Replit eith webview and files](https://github.com/app-generator/dummy/assets/57325382/e9b8ccb1-f3a2-4647-ac46-240a9c839c1f)
+![Replit with webview and files](https://github.com/app-generator/dummy/assets/57325382/e9b8ccb1-f3a2-4647-ac46-240a9c839c1f)
 
 <br />
 
