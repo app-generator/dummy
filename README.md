@@ -648,5 +648,29 @@
 
 <br />
 
+![Creating new replit project](https://github.com/app-generator/dummy/assets/57325382/281fe624-a37a-4e20-b17f-2510aeee38a6)
+
+<br />
+
+![Replit project page and description](https://github.com/app-generator/dummy/assets/57325382/9f36ad3f-b2ca-496e-b856-b4f704053c52)
+
+<br />
+
+![Replit eith webview and files](https://github.com/app-generator/dummy/assets/57325382/e9b8ccb1-f3a2-4647-ac46-240a9c839c1f)
+
+<br />
+
+![Flask soft ui dashboard login page](https://github.com/app-generator/dummy/assets/57325382/c9cca7e1-33eb-4a11-9b38-425ad4609c85)
+
+<br />
+
+![Flask soft ui dashboard signup page](https://github.com/app-generator/dummy/assets/57325382/187765ba-cdfe-4534-aca1-64709192c1e3)
+
+<br />
+
+![Flask soft ui dashboard homepage](https://github.com/app-generator/dummy/assets/57325382/b8d7f3a6-e551-48d4-9606-88754c1cae99)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
