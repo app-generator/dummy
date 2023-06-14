@@ -2,6 +2,8 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Material PRO BS4](https://github.com/app-generator/dummy/assets/51070104/d7a5b026-a965-46e3-b905-e6e27274740f)
+
 ![Django Tabler - Open-Source Starter crafted by AppSeed.](https://github.com/app-generator/dummy/assets/51070104/8e56d253-5196-4a8d-961c-bd6c2a01a6a7)
 
 ![Modernize PRO - Thumb Image](https://github.com/app-generator/dummy/assets/51070104/6b1d21c2-5e26-4708-bcc5-7958e7f49d3d)
