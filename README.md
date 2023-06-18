@@ -2,6 +2,10 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Material Dashboard (WPX) - Premium Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/1ced46f0-5faf-4e9d-905c-5ed1e11cd93a)
+
+![Material Dashboard (WPX) - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/411e6b0c-cee9-4806-9f24-f8f470213e37)
+
 ![Tabler - Open-Source Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/3adba43d-e588-48d2-93be-be0a6da82d5a)
 
 ![Modernize Dashboard BS5](https://github.com/app-generator/dummy/assets/51070104/70be1124-94d8-4d6a-8ac5-c41924b84e95)
