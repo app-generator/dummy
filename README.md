@@ -2,6 +2,12 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Adminator - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/5c7026fd-0816-4478-b1a4-b17abf184d80)
+
+![Shards - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/e80ebb60-f2d8-4a3d-9674-22b447b148b1)
+
+![Sb-Admin - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/1622b709-2967-4e14-bea7-1b49a4cef560)
+
 ![Material Dashboard (WPX) - Premium Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/1ced46f0-5faf-4e9d-905c-5ed1e11cd93a)
 
 ![Material Dashboard (WPX) - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/411e6b0c-cee9-4806-9f24-f8f470213e37)
