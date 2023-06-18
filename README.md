@@ -2,6 +2,8 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Tabler - Open-Source Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/3adba43d-e588-48d2-93be-be0a6da82d5a)
+
 ![Modernize Dashboard BS5](https://github.com/app-generator/dummy/assets/51070104/70be1124-94d8-4d6a-8ac5-c41924b84e95)
 
 ![Modernize Dashboard PRO BS5](https://github.com/app-generator/dummy/assets/51070104/0f62d380-de4b-434c-bec3-ad181dc9eae1)
