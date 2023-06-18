@@ -2,6 +2,16 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![Modernize Dashboard BS5](https://github.com/app-generator/dummy/assets/51070104/70be1124-94d8-4d6a-8ac5-c41924b84e95)
+
+![Modernize Dashboard PRO BS5](https://github.com/app-generator/dummy/assets/51070104/0f62d380-de4b-434c-bec3-ad181dc9eae1)
+
+![Material Dashboard BS5](https://github.com/app-generator/dummy/assets/51070104/792fa82a-9417-48c0-9ec4-b1f456c3d2ab)
+
+![Material Dashboard BS4 PRO](https://github.com/app-generator/dummy/assets/51070104/3db1c3ee-a180-4ad7-8857-f68f3e5d0b3b)
+
+![Material Dashboard 2 BS5 PRO](https://github.com/app-generator/dummy/assets/51070104/b8bc58d5-2f66-4b6e-ae14-70e3d9d0a0a1)
+
 ![Material PRO BS4](https://github.com/app-generator/dummy/assets/51070104/d7a5b026-a965-46e3-b905-e6e27274740f)
 
 ![Django Tabler - Open-Source Starter crafted by AppSeed.](https://github.com/app-generator/dummy/assets/51070104/8e56d253-5196-4a8d-961c-bd6c2a01a6a7)
