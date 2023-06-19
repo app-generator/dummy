@@ -2,6 +2,10 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![React Material UI PRO - Premium Dashboard Template crafted by Creative-Tim](https://github.com/app-generator/dummy/assets/51070104/81fa508d-90b1-4da4-bc0b-45b22c5de7bd)
+
+![React Material UI - Free Dashboard Template crafted by Creative-Tim](https://github.com/app-generator/dummy/assets/51070104/e3d573b0-9d9f-4167-ba65-a1d98bb875ea)
+
 ![Adminator - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/5c7026fd-0816-4478-b1a4-b17abf184d80)
 
 ![Shards - Free Dashboard Template](https://github.com/app-generator/dummy/assets/51070104/e80ebb60-f2d8-4a3d-9674-22b447b148b1)
