@@ -698,5 +698,25 @@
 
 <br />
 
+![Argon Dashboard 2 React - Homepage](https://github.com/app-generator/dummy/assets/57325382/755068e1-d9a6-42f0-a0be-d7fc940ce494)
+
+<br />
+
+![Argon Dashboard 2 React - Profile](https://github.com/app-generator/dummy/assets/57325382/82f6adcb-6ca0-4ea5-9f92-2c8deedabcfb)
+
+<br />
+
+![Argon Dashboard 2 React - Signin](https://github.com/app-generator/dummy/assets/57325382/cf8cc22e-e027-439f-9c13-5c05685e407c)
+
+<br />
+
+![Argon Dashboard 2 React - Signup](https://github.com/app-generator/dummy/assets/57325382/a07ba092-9d83-4d14-9013-2502a501a990)
+
+<br />
+
+![Argon Dashboard 2 React - Cards](https://github.com/app-generator/dummy/assets/57325382/ca3dfb17-a66f-4264-b815-dbaceb8c650f)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
