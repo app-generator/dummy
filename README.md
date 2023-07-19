@@ -2,6 +2,9 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+
+![image](https://github.com/app-generator/dummy/assets/51070104/4a645cac-d4b5-40b4-8dce-6a91e8e6c4ba)
+
 ![Django React Datta Able](https://github.com/app-generator/dummy/assets/51070104/89738973-e509-4f2e-bf75-b8e9160ce2f3)
  
 ![Django React Datta PRO](https://github.com/app-generator/dummy/assets/51070104/dfe88ab5-3aa8-43bc-8cd6-e19fa6ffdf63)
