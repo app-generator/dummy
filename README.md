@@ -2,6 +2,7 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![image](https://github.com/app-generator/dummy/assets/51070104/d40d5772-ad8b-43ae-aab2-22b8b72d8e84)
 
 ![image](https://github.com/app-generator/dummy/assets/51070104/4a645cac-d4b5-40b4-8dce-6a91e8e6c4ba)
 
