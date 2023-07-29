@@ -2,6 +2,8 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![image](https://github.com/app-generator/dummy/assets/51070104/3e44bb40-c425-4548-b580-ac87c027e185)
+
 ![simpllo-docs-editor](https://github.com/app-generator/dummy/assets/51070104/91059dee-34de-49fa-98d8-0450ff716ca8)
 
  ![simpllo-components](https://github.com/app-generator/dummy/assets/51070104/8ff31359-a993-434f-8ffb-bf4dbbb5b6fe)
