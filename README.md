@@ -2,6 +2,24 @@
 
 > Used to cache the assets - !!! DO NOT USE IT !!!
 
+![image](https://github.com/app-generator/dummy/assets/51070104/82c6da57-66e5-479a-958d-e1d3de591da9)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/a22d8c0d-4da3-4765-ab84-bc13eca48a2c)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/c370ecbb-8b41-4d72-b190-32d5c1ee9796)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/d8a607dc-8f28-44f7-8e61-cd35f07273f9)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/0683523c-dca5-4984-b1d4-434ef8217b70)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/0a6c184c-03e9-4322-bfce-44983a4e2535)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/5d14ec87-3c0c-4b69-a0e1-adb7d67c296b)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/a6f1452e-f0d2-4ea3-8a3b-3af99217967a)
+
+![image](https://github.com/app-generator/dummy/assets/51070104/c229628b-65a1-439b-bb54-3d03dc56f4c5)
+
 ![image](https://github.com/app-generator/dummy/assets/51070104/45443c6b-85a9-4341-acd5-45385cbbc814)
 
 ![image](https://github.com/app-generator/dummy/assets/51070104/b2e27701-176c-44ff-8453-d1afca4284a4)
