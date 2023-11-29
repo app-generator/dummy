@@ -808,5 +808,13 @@
 
 <br />
 
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/409d6211-d1ed-4be0-8fca-d5ea58693481)
+
+<br />
+
+![Rocket Django Tasks Page - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/d3b2ae6b-6971-4005-aec4-7aa95c7eac5a)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
