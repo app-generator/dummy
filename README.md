@@ -823,5 +823,13 @@
 
 <br />
 
+![Rocket Django Tasks Page - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/cada9eb2-93ec-4f9c-85be-163798060471)
+
+<br />
+
+![Rocket Django Tasks Page - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/aad832d4-ff62-44a1-a973-23c42e13acd8)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
