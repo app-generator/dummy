@@ -831,5 +831,21 @@
 
 <br />
 
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Datatable view](https://github.com/app-generator/dummy/assets/57325382/0ca99722-23e6-470f-8f9b-66544fb04ad0)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Datatable create](https://github.com/app-generator/dummy/assets/57325382/95cbe45d-d421-406e-8ccc-4ee48654d133)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Datatable update](https://github.com/app-generator/dummy/assets/57325382/e0f9b9f7-32df-4979-b3ef-75e63afc9d75)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Datatable delete confirmation](https://github.com/app-generator/dummy/assets/57325382/f2bd6933-cdd1-46ad-96a2-e83bb65c85dd)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
