@@ -847,5 +847,9 @@
 
 <br />
 
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Home page](https://github.com/app-generator/dummy/assets/57325382/d3d175ef-42e8-4d72-83e1-22acad6f6d88)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
