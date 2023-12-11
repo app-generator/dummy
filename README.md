@@ -831,6 +831,10 @@
 
 <br />
 
+![Rocket Django Charts Page - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/26234f9f-ffdc-45ef-942e-f779a4bc6c50)
+
+<br />
+
 ![Rocket Django - Styled with Tailwind-Flowbite AppSeed - Datatable view](https://github.com/app-generator/dummy/assets/57325382/0ca99722-23e6-470f-8f9b-66544fb04ad0)
 
 <br />
