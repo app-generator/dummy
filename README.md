@@ -851,5 +851,18 @@
 
 <br />
 
+![Flowbite component page](https://github.com/app-generator/dummy/assets/57325382/f70f60d4-91d6-4863-9267-e1f8b7db689d)
+
+<br />
+
+![Rocket Django UI component highlighted- Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/fd0e2509-c136-4e8a-951c-8b860086db8f)
+
+<br />
+
+![Rocket Django flowbite component - Styled with Tailwind-Flowbite AppSeed](https://github.com/app-generator/dummy/assets/57325382/3712d2d2-621c-46b3-af4e-f0a2b150a15a)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
+
