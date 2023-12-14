@@ -867,6 +867,22 @@
 
 <br />
 
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - User profile page](https://github.com/app-generator/dummy/assets/57325382/5488a471-2398-4565-aaf1-fbcfa5b9843b)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - i18n page English text](https://github.com/app-generator/dummy/assets/57325382/7ba2da39-143e-4e13-96d2-6ed0c23edc58)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - i18n page German text](https://github.com/app-generator/dummy/assets/57325382/501f881d-9c9c-45be-991b-fccf78b98933)
+
+<br />
+
+![Rocket Django - Styled with Tailwind-Flowbite AppSeed - i18n page Italian text](https://github.com/app-generator/dummy/assets/57325382/024b25ef-1a23-4e14-ae03-83dec2621ab7)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
 
