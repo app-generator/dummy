@@ -883,6 +883,31 @@
 
 <br />
 
+![Google developer console](https://github.com/app-generator/dummy/assets/57325382/e63df707-d066-453e-a7d2-8ea5425ba85b)
+
+<br />
+
+![Google developer console OAuth page](https://github.com/app-generator/dummy/assets/57325382/bbfaad26-2a4a-4876-bdc9-e23b1e88eaab)
+
+<br />
+
+![Github settings page](https://github.com/app-generator/dummy/assets/57325382/abbea42b-c2d5-4981-ba41-dfc4920cbcc9)
+
+<br />
+
+![Github register new OAuth application page](https://github.com/app-generator/dummy/assets/57325382/c92ba91d-d5da-4e48-854b-fd210f06e0ec)
+
+<br />
+
+![Github App OAuth page](https://github.com/app-generator/dummy/assets/57325382/1fd2387e-d884-4867-870f-5258dd0f77c3)
+
+<br />
+
+![Rocket Django PRO signin page](https://github.com/app-generator/dummy/assets/57325382/8d96c33e-1c0b-4d19-8543-b84bc55e3338)
+
+<br />
+
 ---
 Dummy Project - by AppSeed. 
+
 
