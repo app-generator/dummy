@@ -907,6 +907,25 @@
 
 <br />
 
+![Wagtail CMS Dashboard](https://github.com/app-generator/dummy/assets/57325382/c0bc342c-e416-40d6-b93f-508ca1a5044f)
+
+<br />
+
+![Wagtail CMS Categories page](https://github.com/app-generator/dummy/assets/57325382/281d2d23-ba08-443d-9e10-ec2e2aba5c11)
+
+<br />
+
+![Wagtail Site Pages](https://github.com/app-generator/dummy/assets/57325382/6c838546-a80c-4980-875e-1630792eeb70)
+
+<br />
+
+![Rocket Django published blog](https://github.com/app-generator/dummy/assets/57325382/c1835e4a-5af6-48fe-a05f-50cd6eb5a2cd)
+
+<br />
+
+![Rocket Django CMS page](https://github.com/app-generator/dummy/assets/57325382/0fe37812-f596-4738-a835-cf0823a2542b)
+
+
 ---
 Dummy Project - by AppSeed. 
 
